@@ -1,0 +1,1 @@
+﻿Test-NetConnection 52.172.210.94 -Port 3389
